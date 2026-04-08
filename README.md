@@ -1,2 +1,0 @@
-# Digipay
-Aplikasi Digipay 
